@@ -24,4 +24,4 @@ After applying a machine learning model we can say that we can predict users tha
 This project is made by [Mohamed Sameh](https://github.com/MohamedSamehMoha)
 
 # Resources
-> You can check my Medium article [here](https://medium.com/@samehmmm337/i-had-finished-udacity-data-scientist-nanodegree-final-project-and-i-had-to-post-on-medium-to-pass-e60bb15491ef)
+> You can check my Medium article [here](https://medium.com/@samehmmm337/udacity-capstone-project-aaa4178f3acf)
